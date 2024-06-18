@@ -1,2 +1,2 @@
 # PROJETO-EBAC
-projeto do urso de TI da ebac 
+projeto do curso de TI da ebac 
